@@ -1,0 +1,2 @@
+lec5 : 접근제한자
+//public, external, private, internal
